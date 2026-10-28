@@ -1,4 +1,4 @@
-# Dashboard-Dummy-Project-Pitching-Board-
+# Dashboard yearly sales
 This is my first project making a sales dashboard with a few kpi that suit to pitching a new investor
 Sales Dashboard insight for investor pitching!
 
