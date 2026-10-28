@@ -17,6 +17,9 @@ Size    : contain 20k+ rows, from 2022-2024
 
 Fields  : Date, brand, segment, category, channel, region, pack_type, price_unit, promotion_flag, dedlivery_days, stock_avail, delivered_qty, unit_solds, revenue, fulfilment_rate, conversion_rate.
 
+Question:
+1. Is it because the purchase discount has increased or has the margin decreased?
+2. Should a company never offer discounts, or should it do the opposite?
 
 KPI Tracked
 
@@ -39,12 +42,16 @@ with this data you can tell that our product is get a big average price purchase
 
 Key Insight
 
-1.
+1.Purchases increased because of discounts. Promo rows sold about 1.95x more units (34.1 vs 17.4) and converted about 2x better (19.0% vs 9.7%). This held across every category, region, channel and year, while stock, fulfilment and delivery were the same. Discounts are therefore the most likely driver of the volume jump, and they account for about $2.5M of extra revenue (~12.5% of the total).
 
-2.
+A discount lowers margin per unit by definition, but the profit effect depends on how deep the discount is. As long as the discount is under about 49% of gross margin, the doubled volume more than makes up for the lower margin per unit. For example, with a 30% gross margin the discount should stay below about 14.6%.
 
-3.
+In short, the discount raises volume. 
 
+2.The company should keep discounting, but selectively and with a cap.
+
+Never discounting would be a mistake. Promos are only 15% of rows but 25.5% of units sold, and there is no sign of damage afterwards (sales right after a promo were 17.50 units vs a 17.44 baseline, so customers aren’t just pulling purchases forward).
+Discounting without limits would be risky. Revenue in the dashboard is overstated for promo rows, and profit is only safe while the discount stays below the break-even line.
 
 Tools used
 
